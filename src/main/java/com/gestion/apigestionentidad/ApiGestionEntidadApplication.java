@@ -2,11 +2,6 @@ package com.gestion.apigestionentidad;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.ApplicationContext;
-import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
-
-import com.gestion.apigestionentidad.model.Usuario;
-import com.gestion.apigestionentidad.repository.UsuarioRepository;
 
 @SpringBootApplication
 public class ApiGestionEntidadApplication {
